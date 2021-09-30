@@ -7,7 +7,7 @@
 
 - 📚 Currently learning **Java & Ruby**
 
-- ✔ True fact **tabs > spaces**
+- ✔ True fact: **tabs > spaces**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

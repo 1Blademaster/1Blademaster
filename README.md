@@ -3,7 +3,7 @@
 
 - 👨‍💻 Self-taught **web developer**
 
-- ⌚ Programming in Python for **4 years**
+- ⌚ Programming in Python for **5 years**
 
 - 📚 Currently learning **Java & Ruby**
 

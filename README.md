@@ -8,7 +8,7 @@
 ```python
 class Kush:
 	languages = ['python', 'javascript', 'html', 'css', 'java', 'ruby']
-	tools = ['node', 'django', 'flask', 'react', 'redis', 'postgresql']
+	tools = ['node', 'next.js', 'django', 'flask', 'react', 'redis', 'postgresql']
 	design_software = ['illustrator', 'photoshop', 'figma']
 	live_websites = {
 		'Project_Falcon': 'projectfalcon.uk'

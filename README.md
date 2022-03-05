@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Kush!</h2>
+<h2 align="left">Hi, I'm Kush! <img src="https://raw.githubusercontent.com/1Blademaster/1Blademaster/master/wave.gif" width="30px"></h2>
 
 <p align="left">Software Engineering student and passionate web developer</p>
 

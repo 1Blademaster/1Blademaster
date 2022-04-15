@@ -11,7 +11,7 @@ class Kush:
 	tools = ['node', 'next.js', 'django', 'flask', 'react', 'redis', 'postgresql']
 	design_software = ['illustrator', 'photoshop', 'figma']
 	live_websites = {
-		'Project_Falcon': 'projectfalcon.uk'
-		'Spare_Study_Space': 'sparestudyspace.com'
+		'Project Falcon': 'projectfalcon.uk'
+		'Spare Study Space': 'sparestudyspace.com'
 	}
 ```

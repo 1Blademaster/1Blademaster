@@ -13,6 +13,7 @@ class Kush:
 	live_websites = {
 		'Project Falcon': 'projectfalcon.uk',
 		'Spare Study Space': 'sparestudyspace.com',
-		'Place Dibs': 'placedibs.com'
+		'Place Dibs': 'placedibs.com',
+		'Sheff Night Out': 'sheffnightout.com',
 	}
 ```

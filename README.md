@@ -3,7 +3,6 @@
 <p align="left">Software Engineering student and passionate web developer</p>
 
 [![Linkedin: kush-m](https://img.shields.io/badge/-Connect_with_me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kush-m/)](https://www.linkedin.com/in/kush-m/)
-[![Medium: kushm](https://img.shields.io/badge/-Read_my_articles-red?style=flat-square&logo=medium&logoColor=white&link=https://kushm.medium.com/)](https://kushm.medium.com/)
 
 ```python
 class Kush:
@@ -11,7 +10,9 @@ class Kush:
 	tools = ['node', 'next.js', 'django', 'flask', 'react', 'redis', 'postgresql']
 	design_software = ['illustrator', 'photoshop', 'figma']
 	live_websites = {
+		'Porfolio': 'kushm.dev',
 		'Project Falcon': 'projectfalcon.uk',
+		'FGCS': 'fgcs.projectfalcon.uk',
 		'Spare Study Space': 'sparestudyspace.com',
 		'Place Dibs': 'placedibs.com',
 		'Sheff Night Out': 'sheffnightout.com',

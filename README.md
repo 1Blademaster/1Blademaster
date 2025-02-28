@@ -16,5 +16,6 @@ class Kush:
 		'Spare Study Space': 'sparestudyspace.com',
 		'Place Dibs': 'placedibs.com',
 		'Sheff Night Out': 'sheffnightout.com',
+		'Avis Drone Labs': 'avisdronelabs.uk',
 	}
 ```
